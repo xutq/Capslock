@@ -12,7 +12,7 @@
 
 *Transform <kbd>⇪</kbd>CapsLock into a powerful **modifier** **<kbd>✱</kbd> Hyper** that miraculously increases your work productivity!*
 
-![control-plane-0](docs/img/keyboard.jpg)
+![control-plane-0](https://private-user-images.githubusercontent.com/493741/258578428-8c4162a6-2cb4-4ffd-9edd-129ae99ac5c8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI5MTE3MTAsIm5iZiI6MTc0MjkxMTQxMCwicGF0aCI6Ii80OTM3NDEvMjU4NTc4NDI4LThjNDE2MmE2LTJjYjQtNGZmZC05ZWRkLTEyOWFlOTlhYzVjOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyNVQxNDAzMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZDc3ZTA0YjM3MGYzMGY1MWYwM2FhYWM3ODNjMWFjNmZkNjJiNjZkZGU1MmQyZjYzNDI0MjUyNjQ4ZGE0ZjZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vfF0GkS84T9vtRMhkNCk_d1sBp99-VIsWJrbpr14FoE)
 
 > [Control Plane](#control-planes) 0 Layout (There are 15 more!)
 
@@ -86,7 +86,7 @@ It only takes two steps to enable Capslock on your Mac: Download & Enable
 
 Capslock works on **ANSI** keyboards and similar layouts. It literally remaps every [**keys**](#Symbols) on the keyboard. Including 10 categories.
 
-![](docs/img/keyboard.jpg)
+![](https://private-user-images.githubusercontent.com/493741/258578428-8c4162a6-2cb4-4ffd-9edd-129ae99ac5c8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI5MTE3MTAsIm5iZiI6MTc0MjkxMTQxMCwicGF0aCI6Ii80OTM3NDEvMjU4NTc4NDI4LThjNDE2MmE2LTJjYjQtNGZmZC05ZWRkLTEyOWFlOTlhYzVjOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyNVQxNDAzMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZDc3ZTA0YjM3MGYzMGY1MWYwM2FhYWM3ODNjMWFjNmZkNjJiNjZkZGU1MmQyZjYzNDI0MjUyNjQ4ZGE0ZjZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vfF0GkS84T9vtRMhkNCk_d1sBp99-VIsWJrbpr14FoE)
 
 > **[Control Planes](#Control-Planes)** are defined by combination of four extra left modifiers: <kbd>⌘</kbd><kbd>⌥</kbd><kbd>⌃</kbd><kbd>⇧</kbd>.This image shows the layout of control plane 0.
 
